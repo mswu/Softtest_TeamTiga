@@ -1,0 +1,8 @@
+C:\TedNotepad\TedNotepad\bin\Debug\TedNotepad.exe
+C:\TedNotepad\TedNotepad\bin\Debug\TedNotepad.pdb
+C:\TedNotepad\TedNotepad\bin\Debug\Babel.dll
+C:\TedNotepad\TedNotepad\obj\x86\Debug\TedNotepad.csprojResolveAssemblyReference.cache
+C:\TedNotepad\TedNotepad\obj\x86\Debug\TedNotepad.exe
+C:\TedNotepad\TedNotepad\obj\x86\Debug\TedNotepad.pdb
+C:\UW\TedNotepad\TedNotepad\obj\x86\Debug\TedNotepad.exe
+C:\UW\TedNotepad\TedNotepad\obj\x86\Debug\TedNotepad.pdb
