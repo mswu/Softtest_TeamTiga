@@ -19,6 +19,7 @@ namespace SofTest402.TeamTiga.FinalProject
             try
             {
                 File.AppendAllText(logname, info + Environment.NewLine);
+                
             }
             catch
             {
